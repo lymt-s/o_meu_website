@@ -1,0 +1,12 @@
+---
+title: "Projetos"
+format: html
+---
+
+### FlutterCare - App de Monitorização de Epidermólise Bolhosa 
+- **Descrição:** Aplicação em desenvolvimento para apoiar pacientes com Epidermólise Bolhosa, permitindo o registo de sintomas, geração de análises de feridas em tempo real e partilha com profissionais de saúde.  
+- **Tecnologias:** Java, IA para análise preditiva.  
+- **Impacto:** Facilita o acompanhamento remoto e otimiza o cuidado clínico.  
+
+### Projeto IDUS - Indicadores de Saúde Digital
+- **Descrição:** Desenvolvimento de relatórios com indicadores de saúde digital para as Unidades Locais de Saúde, de forma a analisar e melhorar o desempenho digital na área clínica do país.

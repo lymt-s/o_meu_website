@@ -1,0 +1,18 @@
+---
+title: "Currículo"
+format: html
+---
+
+## 🎓 Formação Académica
+- **Licenciatura em Saúde Digital e Inovação Biomédica**  
+  Faculdade de Medicina da Universidade do Porto, Estudante do 1º Ano.  
+
+## 💼 Experiência Profissional
+- **[Explicadora Privada]**  
+  *[2023] - [2024]*  
+  - Trabalho com jovens dos 12 aos 18 anos para preparação de testes e melhoria de competências nas disciplinas de Biologia e Geologia, Matemática A, Inglês e Português.
+
+## 🛠️ Competências Técnicas
+- Programação: Java.  
+- Inglês - nível C2, certificado pelo CPE;
+- Alemão - nível B1, certificado pelo GOETHE-ZERTIFIKAT B1;

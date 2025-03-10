@@ -1,0 +1,9 @@
+---
+title: "Contactos e Outros Projetos"
+format: html
+---
+
+Entre em contacto comigo para parcerias, colaborações ou dúvidas!  
+
+- 📧 Email: sara.lourenco1128@gmail.com
+- 🌐 [GitHub](https://github.com/lymt-s)
