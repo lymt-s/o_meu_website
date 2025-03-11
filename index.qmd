@@ -4,6 +4,8 @@ title: "Bem-vindo ao meu site!"
 
 # Olá, o meu nome é Sara Lourenço.
 
+![Sara Lourenço](images/IMG_5312.jpg)
+
 Este é o meu site sobre o meu percurso na licenciatura de Saúde Digital e Inovação Biomédica.
 
 Aqui partilho o meu percurso pessoal, projetos e reflexões sobre o impacto da tecnologia na saúde, bem como de outros diversos temas.  
