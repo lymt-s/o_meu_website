@@ -4,7 +4,7 @@ title: "Bem-vindo ao meu site!"
 
 # Olá, o meu nome é Sara Lourenço.
 
-![Sara Lourenço](images/IMG_5312.jpg)
+![Sara Lourenço](/images/IMG_5312.jpg)
 
 Este é o meu site sobre o meu percurso na licenciatura de Saúde Digital e Inovação Biomédica.
 
